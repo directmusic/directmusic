@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 my name is joseph lyncheski (he/him). i don't have a whole lot of public repos but i'm always making stuff.
 
-- 🎵 i am a full time musician - [spotify](https://direct.lnk.to/Spotify) | [apple](https://direct.lnk.to/Apple) | [soundcloud](https://direct.lnk.to/SoundCloud)
+- 🎵 i am a full time musician - [spotify](https://direct.lnk.to/Spotify) | [apple](https://direct.lnk.to/AppleMusic) | [soundcloud](https://direct.lnk.to/SoundCloud)
 - 🔊 i make an audio metering app called [MiniMeters](https://minimeters.app).
 - 🌱 i am forever learning `c++` & `js`, and love to dabble in `rust`
 - 😬 in my free time i game and spend time with friends, but i almost always just make stuff
